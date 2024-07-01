@@ -19,6 +19,8 @@ Operações CRUD:
 
 *********** Libs usadas ***********
 FastAPI
+BaseModel
+List
 
 ************* Instalação ***********
 pip install fastapi

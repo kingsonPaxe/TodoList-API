@@ -13,7 +13,7 @@ class Task(BaseModel):
 tarefa = [
     {
         "id": 1,
-        "titulo": "Fazer a tarefa a prova de Progamação",
+        "titulo": "Fazer a prova de Progamação IV",
         "descricao": "Fazer uma API em python para criar, listar, atualizar e excluir tarefas.",
         "completado": True
     }
