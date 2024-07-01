@@ -27,7 +27,7 @@ pip install fastapi
 obs: Instalara todos os pacotes necessarios para o uso.
 
 ************* Como executar ***********
-uvicor index:app --reload
+uvicorn index:app --reload
 
 ************** Para testar a API *********
 http://127.0.0.1:8000/docs
